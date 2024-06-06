@@ -1,0 +1,54 @@
+[
+    {
+        
+        "user_role": "client",
+        "user_input": "hi",
+        "bot_role": "developer",
+        "bot_response": "Hello! How can I help you?"
+    },
+
+    {
+        "user_role": "client",
+        "user_input": "hello",
+        "bot_role": "developer",
+        "bot_response": "Hi there! What can I do for you?"
+    },
+
+    {
+        "user_role": "client",
+        "user_input": "bye",
+        "bot_role": "developer",
+        "bot_response": "Goodbye! Have a great day!"
+    },
+    
+    {
+        "user_role": "client",
+        "user_input": "I need a new feature.",
+        "bot_role": "developer",
+        "bot_response": "Sure, what kind of feature are you looking for?"
+    },
+    {
+        "user_role": "client",
+        "user_input": "Can we integrate payment processing?",
+        "bot_role": "developer",
+        "bot_response": "Yes, we can integrate payment processing. Do you have a specific provider in mind?"
+    },
+    {
+        "user_role": "client",
+        "user_input": "How much will it cost?",
+        "bot_role": "developer",
+        "bot_response": "The cost depends on the complexity of the feature. We can discuss the details and provide an estimate."
+    },
+    {
+        "user_role": "client",
+        "user_input": "Thank you!",
+        "bot_role": "developer",
+        "bot_response": "You're welcome! Let me know if there's anything else I can help with."
+    },
+    {
+        "user_role": "client",
+        "user_input": "default",
+        "bot_role": "developer",
+        "bot_response": "I'm not sure about that. Can you please provide more details?"
+    }
+]
